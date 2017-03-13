@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/code0.dir/src/code0.cpp.o  -o code0 -rdynamic 
