@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/code2.2.dir/src/code2.2.cpp.o  -o code2.2 -rdynamic 

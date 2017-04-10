@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yh/mine_ws/src/dataStructure/code2/src/code2.1.cpp
+stdio.h
+-
+iostream
+-
+stdlib.h
+-
+

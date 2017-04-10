@@ -1,0 +1,2 @@
+/home/yh/mine_ws/src/dataStructure/code2/build/CMakeFiles/code2.1.dir
+/home/yh/mine_ws/src/dataStructure/code2/build/CMakeFiles/code2.2.dir
